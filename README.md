@@ -1,7 +1,7 @@
 # 🔧 Laboratórios CCNA — Cisco Packet Tracer
 
 > Laboratórios práticos do CCNA 1, 2 e 3 — Cisco NetAcad.  
-> Ambiente de missão crítica: **GRU Airport — Aeroporto Internacional de Guarulhos**
+> Ambiente de missão crítica
 
 **Analista de Infraestrutura & Redes | Cabeamento Estruturado Cat6 & Fibra Ótica  
 Suporte N2 — GRU Airport | Elétrica SENAI | Cisco CCNA em formação**
